@@ -19,6 +19,21 @@ benchmark for word alignment covering 14 language pairs.
 We illustrate the creation process of our benchmark and compare statistical and neural approaches 
 to word alignment in both language-specific and zero-shot settings, thus investigating the ability
 of state-of-the-art models to generalize on unseen language pairs.
+
+
+## Cite this work
+
+If you use any part of this work, please consider citing the paper as follows:
+```
+@InProceedings{martelli-EtAl:2023:clicit,
+  author    = {Martelli, Federico  and  Bejgu, Andrei Stefan  and  Campagnano, Cesare  and  Čibej, Jaka  and  Costa, Rute  and  Gantar, Apolonija  and  Kallas, Jelena  and  Koeva, Svetla  and  Koppel, Kristina  and  Krek, Simon  and  Langemets, Margit  and  Lipp, Veronika  and  Nimb, Sanni  and  Olsen, Sussi  and  Pedersen, Bolette Sandford  and  Quochi, Valeria  and  Salgado, Ana  and  Simon, László  and  Tiberius, Carole  and  Ureña-Ruiz, Rafael-J  and  Navigli, Roberto},
+  title     = {XL-WA: a Gold Evaluation Benchmark for Word Alignment in 14 Language Pairs},
+  booktitle      = {Procedings of the Ninth Italian Conference on Computational Linguistics (CLiC-it 2023)},
+  month          = {November},
+  year           = {2023}
+}
+```
+
 ## Dataset
 
 ### Download the data
@@ -92,19 +107,5 @@ Evaluation data is manually-annotated exclusively by professional mother tongue 
 For accessing the datasets in the following language pairs: EN-AR, EN-KO, EN-SV, EN-ZH, please contact [Babelscape](mailto:info@babelscape.com).
 
 
-## Cite this work
-
-If you use any part of this work, please consider citing the paper as follows:
-```
-@InProceedings{martelli-EtAl:2023:clicit,
-  author    = {Martelli, Federico  and  Bejgu, Andrei Stefan  and  Campagnano, Cesare  and  Čibej, Jaka  and  Costa, Rute  and  Gantar, Apolonija  and  Kallas, Jelena  and  Koeva, Svetla  and  Koppel, Kristina  and  Krek, Simon  and  Langemets, Margit  and  Lipp, Veronika  and  Nimb, Sanni  and  Olsen, Sussi  and  Pedersen, Bolette Sandford  and  Quochi, Valeria  and  Salgado, Ana  and  Simon, László  and  Tiberius, Carole  and  Ureña-Ruiz, Rafael-J  and  Navigli, Roberto},
-  title     = {XL-WA: a Gold Evaluation Benchmark for Word Alignment in 14 Language Pairs},
-  booktitle      = {Procedings of the Ninth Italian Conference on Computational Linguistics (CLiC-it 2023)},
-  month          = {November},
-  year           = {2023}
-}
-```
-
-
 ## License
-The data is licensed under [Creative Commons Attribution-ShareAlike 4.0](https://creativecommons.org/licenses/by-sa/4.0/).
+This work is under the [Attribution-NonCommercial-ShareAlike 4.0 International (CC BY-NC-SA 4.0) license](https://creativecommons.org/licenses/by-nc-sa/4.0/).
