@@ -8,7 +8,7 @@
 </div>
 
 ## About the project
-This is the repository for the paper [*XL-WA: a Gold Evaluation Benchmark for Word Alignment in 14 Language Pairs*](https://clic2023.ilc.cnr.it/wp-content/uploads/2023/11/paper35.pdf), accepted at CLiC-it 2023 by Federico Martelli, Andrei Stefan Bejgu, Cesare Campagnano, Jaka Čibej, Rute Costa, Apolonija Gantar, Jelena Kallas, Svetla Koeva, Kristina Koppel, Simon Krek, Margit Langemets, Veronika Lipp, Sanni Nimb, Sussi Olsen, Bolette Pedersen, Valeria Quochi, Ana Salgado, László Simon, Carole Tiberius, Rafael-J Ureña-Ruiz and Roberto Navigli.
+This is the repository for the paper [*XL-WA: a Gold Evaluation Benchmark for Word Alignment in 14 Language Pairs*](https://clic2023.ilc.cnr.it/wp-content/uploads/2023/11/paper35.pdf), accepted at CLiC-it 2023 by Federico **Martelli**, Andrei Stefan **Bejgu**, Cesare **Campagnano**, Jaka **Čibej**, Rute **Costa**, Apolonija **Gantar**, Jelena **Kallas**, Svetla **Koeva**, Kristina **Koppel**, Simon **Krek**, Margit **Langemets**, Veronika **Lipp**, Sanni **Nimb**, Sussi **Olsen**, Bolette **Pedersen**, Valeria **Quochi**, Ana **Salgado**, László **Simon**, Carole **Tiberius**, Rafael-J **Ureña-Ruiz** and Roberto **Navigli**.
 
 ## Abstract
 Word alignment plays a crucial role in several NLP tasks, such as lexicon injection and cross-lingual label projection.
